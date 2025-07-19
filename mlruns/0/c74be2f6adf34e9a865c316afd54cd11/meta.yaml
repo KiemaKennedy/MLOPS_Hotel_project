@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Learning/MLOps/Course/Projects/Hotel_reservation/mlruns/0/c74be2f6adf34e9a865c316afd54cd11/artifacts
+end_time: 1752922362983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c74be2f6adf34e9a865c316afd54cd11
+run_name: monumental-crane-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752922350563
+status: 3
+tags: []
+user_id: kenne
