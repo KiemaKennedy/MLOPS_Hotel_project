@@ -1,0 +1,4 @@
+venv/
+logs/
+Hotel_Project.egg-info/
+mlruns/
